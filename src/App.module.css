@@ -1,0 +1,14 @@
+.card {
+    background-image: url(./assets/snow.jpg);
+    background-size: cover;
+    background-position: center center;
+
+    max-width: 100rem;
+    margin: 2rem 2rem;
+    padding: 10rem 1rem;
+    border-radius: 10px;
+
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
