@@ -21,7 +21,7 @@ export function Counter() {
         }
     }
 
-    const getTime = () => {
+    const getTime = (newYear) => {
         const newYearFromNowInSeconds = Date.parse(newYear) - Date.now();
         const remainingDays = newYearFromNowInSeconds / (1000 * 60 * 60 * 24);
         const newYearFromNowInDays = getNewYear(remainingDays);
