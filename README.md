@@ -19,7 +19,7 @@
 
 4. Tools and Frameworks
 
-    VS Code, Chrome, GIT
+    VS Code, Chrome, GIT,
     React.js + Vite
 
 5. The next step is solve the leap year  with a leap year calculator.
