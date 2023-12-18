@@ -3,9 +3,8 @@
     border-radius: 8px;
     display: grid;
     grid-template-rows: auto auto;
-    background: var(--gray-100);
+    background: var(--gray-050) ;
 }
-
 .container > p {
     font-weight: normal;
     font-size: 5rem;
